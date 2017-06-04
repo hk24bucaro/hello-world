@@ -1,2 +1,2 @@
 # hello-world
-Descrición gráfica básica de un proceso
+Descripción gráfica básica de un proceso
